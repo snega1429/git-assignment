@@ -4,3 +4,4 @@ Initial Fastapi project setup
 Initial content
 Feature: Added new functionality
 >>>>>>> 05d25233f2e989bb4f1da31d622a19d2c5878b63
+Feature: Worker branch  enhancement
